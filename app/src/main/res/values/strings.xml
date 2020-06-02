@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mp3dl</string>
+    <string name="downloadButton_text">Download</string>
+    <string name="urlTextBox_hint">Paste your URL here</string>
+    <string name="cloud_py_ydl_host">https://arcane-mission-2020.ew.r.appspot.com/</string>
+    <string name="yt_video_metadata_api">http://www.youtube.com/oembed?url=http://www.youtube.com/watch?v={%vId}&amp;format=json</string>
+</resources>
